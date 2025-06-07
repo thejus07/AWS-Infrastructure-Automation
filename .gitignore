@@ -1,3 +1,5 @@
+#To create a GitHub repository for your AWS Infrastructure Automation with Terraform project, you'll need the following standard structure and files. 
+#Here's a suggested layout:
 .terraform/
 *.tfstate
 *.tfstate.*
